@@ -1,4 +1,4 @@
-package arrays;
+
 
 public class more_zeros {
     public static void main(String[] args) {
